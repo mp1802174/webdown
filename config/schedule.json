@@ -1,0 +1,6 @@
+{
+    "enabled": true,
+    "period": "daily",
+    "day_of_week": null,
+    "time": "14:14"
+}
